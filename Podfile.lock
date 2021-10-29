@@ -1,9 +1,9 @@
 PODS:
-  - Alamofire (3.5.1)
+  - Alamofire (5.4.4)
   - ReactiveSwift (6.7.0)
 
 DEPENDENCIES:
-  - Alamofire (~> 3.0)
+  - Alamofire (~> 5.4.4)
   - ReactiveSwift (~> 6.1)
 
 SPEC REPOS:
@@ -12,9 +12,9 @@ SPEC REPOS:
     - ReactiveSwift
 
 SPEC CHECKSUMS:
-  Alamofire: 0dfba1184a543e2aa160f4e39cac4e8aba48d223
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
   ReactiveSwift: 208201d6ecc9734196d147aa76bc1f24b1b821fe
 
-PODFILE CHECKSUM: 7275f59e2f33f852e371dd99a4f1698bd61d8ce8
+PODFILE CHECKSUM: f97f646e6284b6346390fc5e8b3962cc0f2f7e43
 
 COCOAPODS: 1.11.2
